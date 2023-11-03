@@ -1,17 +1,22 @@
 {
   "name": "twthash",
   "version": "1.0.0",
-  "description": "",
+  "description": "A JavaScript implementation of TwtHash, a Twtxt extension",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Johan Bové",
   "license": "ISC",
   "dependencies": {
     "base32-encode": "^2.0.0",
     "blake2": "^5.0.0",
     "luxon": "^3.4.3"
   },
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/johanbove/twthash.git"
+  },
+  "keywords": ["Twtxt"]
 }
