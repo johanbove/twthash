@@ -15,8 +15,10 @@
   },
   "type": "module",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/johanbove/twthash.git"
+    "type": "git",
+    "url": "git+https://github.com/johanbove/twthash.git"
   },
-  "keywords": ["Twtxt"]
+  "keywords": [
+    "Twtxt"
+  ]
 }
